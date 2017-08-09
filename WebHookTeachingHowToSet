@@ -1,0 +1,8 @@
+https://api.telegram.org/botTOKEN/setwebhook?url=https://HOSTNAME/FOLDER/FILENAME
+
+بجای : TOKEN : توکن رباتی که ساختی را وارد کن
+بجای : HOSTNAME : نام هاستت را وارد کن
+بجای : FOLDER : پوشه ای که سورس توی اونه وارد کن
+بجای : FILENAME : اسم فایل رو وارد کن برای مثال : index.php
+
+تیم تله اسکای : @TeleSkyTeam
