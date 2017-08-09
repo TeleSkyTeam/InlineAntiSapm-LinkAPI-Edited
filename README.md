@@ -17,7 +17,7 @@ Set Token At Line 116 Instead of *TOKEN* .
 Put Your CHannel Link At Line 240 WithOut @ Instead of *CHANNEL* .
 Put Your CHannel Link At Line 263 WithOut @ Instead of *CHANNEL* .
 Put Your Bot Link At Line 2763 WithOut @ Instead of *BOT*
-
+Create New Folder With Name : data in Source Folder .
 
 از دنبال کردن ما مچکریم !
 
